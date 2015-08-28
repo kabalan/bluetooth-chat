@@ -1,0 +1,1 @@
+Bluetooth-Chatis a mobile application for chat with other mobile device via bluetooth, can be run on J2ME 2.0 enabled device
